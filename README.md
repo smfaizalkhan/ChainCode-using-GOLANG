@@ -43,6 +43,13 @@ File naming for test file shoud be *_test.go
 
    cc := new(SampleChainCode)
 	stub := shim.NewMockStub("InitTest", cc)
+	
+Run the	 test using the command using go test
+
+ ![screenshot from 2017-07-20 13-06-22](https://user-images.githubusercontent.com/22238550/28409641-3f2d9e70-6d4c-11e7-9cdc-7539cde84eee.png)
+
+  
+	
 
 
 
