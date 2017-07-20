@@ -1,6 +1,6 @@
 # ChainCode-using-GOLANG
 
-Sublime Text 
+Sublime Text editor to write chaincode
 
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 
